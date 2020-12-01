@@ -1,0 +1,25 @@
+@font-face {
+    font-family: poppins;
+    src: url(../fonts/Poppins-Medium.ttf);
+}
+
+@font-face {
+    font-family: opensans;
+    src: url(../fonts/OpenSans-LightItalic.ttf);
+}
+
+body {
+    background-color: #f1f1f1;
+}
+
+.profile-img {
+    width: 200px;
+}
+
+.heading {
+    font-family: 'poppins', sans-serif;
+}
+
+.para {
+    font-family: 'opensans', sans-serif;
+}
